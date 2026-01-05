@@ -27,7 +27,7 @@ I focus on:
 
 ---
 
-## Education  
+## 🎓 Education  
 
 🎓 **Bachelor of Science in Computer Science**  
 Mumbai University — *Recently Graduated*  
@@ -37,7 +37,7 @@ Mumbai University — *Recently Graduated*
 - Focused on becoming industry-ready  
 
 ---
-## Projects  
+## 🚀 Projects  
 
 ### 💬 Uchat — Web Chat Application *(Ongoing)*  
 A chat application focused on real-time communication and clean user experience.

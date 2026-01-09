@@ -103,7 +103,7 @@ My personal portfolio showcasing projects, skills, and contact information.
 
 ## Let’s Connect  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/apurv-borkar-20ba4b266/)
+- 💼 LinkedIn: https://www.linkedin.com/in/apurv-borkar-20ba4b266/
 - 🌐 Portfolio: https://apurv-borkar.vercel.app  
 - 🧑‍💻 GitHub: https://github.com/Appuborkar
 
